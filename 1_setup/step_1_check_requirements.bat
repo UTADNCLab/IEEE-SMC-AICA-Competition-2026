@@ -3,11 +3,11 @@ setlocal EnableDelayedExpansion
  
 echo Opening computer setup documentation...
 echo Make sure you have followed the instructions in the website prior to continuing setup.
-echo Return to this terminal window once the GitHub page has opened.
+::echo Return to this terminal window once the GitHub page has opened.
 echo.
-timeout /t 5 >nul
-start "" "https://github.com/quanser/Quanser_Academic_Resources/blob/dev-windows/docs/pc_setup.md"
-timeout /t 2 >nul
+:: timeout /t 5 >nul
+:: start "" "https://github.com/quanser/Quanser_Academic_Resources/blob/dev-windows/docs/pc_setup.md"
+:: timeout /t 2 >nul
 
 :: color options are here https://learn.microsoft.com/en-us/windows/console/console-virtual-terminal-sequences 
 
