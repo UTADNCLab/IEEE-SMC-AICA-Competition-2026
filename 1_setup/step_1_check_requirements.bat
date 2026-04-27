@@ -111,7 +111,7 @@ echo ^| Python Hardware ^|   -   ^|  1   ^|   -   ^|         -       ^|    1   ^
 echo +-----------------+-------+------+-------+-----------------+--------+
 echo ^| Python Virtual  ^|   -   ^|  1   ^|   1   ^|         -       ^|    1   ^|
 echo +-----------------+-------+------+-------+-----------------+--------+
-echo For more detailed info and download links, ctrl + click the following link: [94mhttps://www.quanser.com/pcsetup[0m 
+:: echo For more detailed info and download links, ctrl + click the following link: [94mhttps://www.quanser.com/pcsetup[0m 
 echo.
 
 timeout /t 1 >nul
