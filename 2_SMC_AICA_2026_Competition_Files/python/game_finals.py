@@ -843,12 +843,12 @@ def main():
                                               f"t={current_time:.1f}s -- within "
                                               f"{URGENT_WINDOW_TIME_LIMIT:.0f}s limit, "
                                               f"+{URGENT_WINDOW_BONUS:.0f} bonus "
-                                              f"(score with {bonus:.0f}).")
+                                              f"(score with bonus {bonus:.0f}).")
                                     else:
                                         print(f"[URGENT] Window {w['label']} delivered at "
                                               f"t={current_time:.1f}s -- missed the "
                                               f"{URGENT_WINDOW_TIME_LIMIT:.0f}s window, "
-                                              f"no urgent delivery bonus (score {bonus:.0f}).")
+                                              f"no urgent delivery bonus, score {bonus:.0f}.")
 
                                 score += delivery_score(current_time, bonus)
                                 show_score_time(qlabs_sys, score, current_time)
