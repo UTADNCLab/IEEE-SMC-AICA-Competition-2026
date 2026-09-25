@@ -14,8 +14,7 @@ For system and setup details, see the [System and Software Setup](https://utadnc
 
 ### On-Site Finals files
 
-These are added under `2_SMC_AICA_2026_Competition_Files/python/` for the
-On-Site Finals.
+Download these files for On-Site Finals.
 
 | File | Description |
 |---|---|
