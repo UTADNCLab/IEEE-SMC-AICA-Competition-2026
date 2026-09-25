@@ -22,5 +22,5 @@ Download these files for On-Site Finals.
 | `setup_env_finals.py` | Builds the finals environment and spawns the vehicles. Run before `game_finals.py`.  Do not modify. |
 | `drivable_grid.npz` | Fixed map of the drivable road surface, used for the curb penalty. Do not modify.  |
 | `plot_trace.py` | Draws the vehicle's path over the road surface with each recorded curb hit marked.  Do not modify. |
-|`run_finals.bat` or `run_final.m` | Run entire simulation 
+|`run_finals.bat` or `run_finals.m` | Run entire simulation 
 
